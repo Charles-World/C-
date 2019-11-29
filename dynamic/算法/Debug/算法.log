@@ -1,0 +1,5 @@
+﻿  Dynamic.cpp
+d:\c++\算法\算法\dynamic.cpp(22): error C2614: “Soulution”: 非法的成员初始化:“f1”不是基或成员
+d:\c++\算法\算法\dynamic.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\算法\算法\dynamic.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\算法\算法\dynamic.cpp(103): warning C4018: “<=”: 有符号/无符号不匹配
