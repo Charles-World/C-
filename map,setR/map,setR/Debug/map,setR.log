@@ -1,0 +1,22 @@
+﻿  map.setR.cpp
+d:\c++\map,setr\map,setr\testrbt.hpp(252): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  d:\c++\map,setr\map,setr\testrbt.hpp(149): note: 编译 类 模板 成员函数 "std::pair<__TreeIterator<V>,bool> RBTree<K,V,Map<K,int>::MapKeyOfValue>::Insert(const V &)" 时
+          with
+          [
+              V=std::pair<int,int>,
+              K=int
+          ]
+  d:\c++\map,setr\map,setr\map.setr.cpp(19): note: 参见对正在编译的函数 模板 实例化“std::pair<__TreeIterator<V>,bool> RBTree<K,V,Map<K,int>::MapKeyOfValue>::Insert(const V &)”的引用
+          with
+          [
+              V=std::pair<int,int>,
+              K=int
+          ]
+  d:\c++\map,setr\map,setr\map.setr.cpp(15): note: 参见对正在编译的 类 模板 实例化 "RBTree<K,std::pair<K,V>,Map<K,V>::MapKeyOfValue>" 的引用
+          with
+          [
+              K=int,
+              V=int
+          ]
+  d:\c++\map,setr\map,setr\map.setr.cpp(69): note: 参见对正在编译的 类 模板 实例化 "Map<int,int>" 的引用
+  map,setR.vcxproj -> D:\C++\map,setR\Debug\map,setR.exe
